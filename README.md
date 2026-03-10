@@ -9,3 +9,9 @@ Week 3 (Feb. 17th): NO Tutorial.
 Week 4 (Feb. 24th): Tutorial 1. Case study 2.
 
 Week 5 (Mar. 3rd): Tutorial 2. Case study 1,2.
+
+Week 6 (Mar. 10th): Tutorial 3-1.
+
+Week 7 (Mar. 17th): Tutorial 3-2.
+
+Week 8 (Mar. 24th): NO Tutorial.
