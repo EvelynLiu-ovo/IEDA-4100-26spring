@@ -15,3 +15,15 @@ Week 6 (Mar. 10th): Tutorial 3-1.
 Week 7 (Mar. 17th): Tutorial 3-2.
 
 Week 8 (Mar. 24th): NO Tutorial.
+
+Week 9 (Mar. 31st): ROP.
+
+Week 10 (Apr. 7th): NO Tutorial.
+
+Week 11 (Apr. 14th): MRP.
+
+Week 12 (Apr. 21st): Scheduling.
+
+Week 13 (Apr. 28th): Scheduling.
+
+Week 14 (May. 5th): Project scheduling.
